@@ -1,0 +1,49 @@
+.carousel {
+    max-height: 500px;
+    overflow: hidden;
+    margin: 15px 0 30px 0;
+    border-radius: 20px;
+}
+
+.carousel img {
+    width: auto;
+    
+}
+
+#logo {
+    width: 120px;
+    margin: 0;
+    height: auto;
+}
+
+header,
+footer {
+    background-color: #d9d9d9;
+}
+
+footer {
+    text-align: center;
+    padding: 5px 0;
+    margin-top: 30px;
+}
+
+#bio {
+    text-align: justify;
+    margin-right: 40px;
+}
+
+#cargo {
+    margin: 20px 0;
+}
+
+#formacao, #habilities {
+    margin: 40px 0 20px 0;
+}
+
+#hab-images{
+    width: 20px;
+}
+
+#hab {
+    margin-bottom: 0;
+}
